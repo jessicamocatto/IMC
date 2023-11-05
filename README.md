@@ -1,5 +1,5 @@
-### Olá!! Eu sou a Jessica Moçatto 
+### Mini projeto em Javascript 
 
-- 🔭 Hoje trabalho focada em back-end
-- 🌱 Estudando atualmente JS, node.js e SQL
-- 📫 Meus contatos são: jessica.mocatto-96@hotmail.com / (41) 98776 - 7752
+- O foco foi desenvolver as habilidades lógicas e praticar a linguagem 
+- Conforme os estudos irão avançando o projeto seja reestruturado e refeito 
+- Aceito sugestões de melhorias <3
